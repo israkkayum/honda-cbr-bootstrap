@@ -1,0 +1,11 @@
+/* Google font style */
+body{
+	font-family: 'Poppins', sans-serif;
+}
+
+.header-style{
+    background-color:  #264653;
+}
+.button-style{
+    background-color: #E76F51 !important; 
+}
