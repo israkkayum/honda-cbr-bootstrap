@@ -1,11 +1,91 @@
 /* Google font style */
-body{
-	font-family: 'Poppins', sans-serif;
+body {
+	font-family: 'Poppins', sans-serif !important;
 }
 
 .header-style{
     background-color:  #264653;
 }
+.header-small-text{
+	font-weight: 300;
+    font-size: 14px;
+}
+.header-big-title{
+	font-weight: 600;
+    font-size: 48px;
+}
+.header-paragrap{
+	font-weight: 300;
+    font-size: 16px;
+	color: #E0E0E0;
+}
 .button-style{
     background-color: #E76F51 !important; 
+}
+
+.feture-bike-title{
+	font-weight: 600;
+    font-size: 48px;
+	color: #000000;
+}
+.feature-bike-paragrap{
+	color: #E76F51;
+	font-weight: 600;
+    font-size: 14px;
+}
+.image-gray{
+  filter: grayscale(100%) !important;
+} 
+
+.happy-client-title{
+	font-weight: 600;
+    font-size: 48px;
+}
+.client-review{
+	font-weight: normal;
+    font-size: 16px;
+	color: #6C6C6C;
+	line-height: 26px;
+}
+.fa{
+	margin:6px;
+	color: #E77C40;
+}
+
+.far{
+	margin:6px;
+	color: #E77C40;
+}
+.client-name{
+	font-weight: 600;
+    font-size: 14px;
+	color: #23A6F0;
+
+}
+.client-job{
+	font-weight: 600;
+    font-size: 14px;
+}
+.frequently-ask{
+	font-weight: 600;
+    font-size: 48px;
+}
+.question{
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 28px;
+	color: #383838;
+}
+.answer{
+	font-weight: normal;
+	font-size: 16px;
+	line-height: 28px;
+	color: #7E848C;
+}
+.fas{
+	color: #383838;
+}
+.partner-title{
+	font-weight: 600;
+    font-size: 48px;
 }
